@@ -1,11 +1,11 @@
 #  Portfolio Projects
 Hello! These are portfolio projects I completed while working through my Computer Science degree at Oregon State University. I'll update this readme as I progress through the program and add projects to this repo.
 
-INTRO TO COMPUTER SCIENCE I (CS 161): No portfolio project.<br />
-INTRO TO COMPUTER SCIENCE II (CS 162): Ludo<br />
-DISCRETE MATH (CS 225): No portfolio project.<br />
-DATA STRUCTURES (CS 261): Two hash maps<br />
-WEB DEVELOPMENT (CS 290): Web app<br />
-ANALYSIS OF ALGORITHMS (CS 325): Pathfinder algo<br />
-COMPUTER ARCHITECTURE & ASSEMBLY LANGUAGE (CS 271): Read and write string manually<br />
-INTRO TO DATABASES (CS 340): CRUD app<br />
+Intro To Computer Science I (CS 161): No portfolio project.<br />
+Intro To Computer Science II (CS 162): Ludo: Sorry!-like game for four players. Tech used: Python with emphasis on object-oriented programming.<br />
+Discrete Structures in Computer Science (CS 225): No portfolio project.<br />
+Data Structures (CS 261): Hashmaps: Build two instances of a hashmap from scratch. Tech used: Python.<br />
+Web Development (CS 290): Web app: Build out a web app, which allows a user to track their workout progress. Tech used: HTML, CS, JavaScript, and React.<br />
+Analysis of Algorithms (CS 325): Pathfinder: Build out algorithm that finds the quickest path through a maze. Tech used: Python.<br />
+Computer Architecture & Assembly Language (CS 271): Readstring, Writestring: Program that reads and validates ASCII data, converts it to numerical data for storage, and converts it back for display to a user. Tech used: x86 Assembly language.<br />
+Introduction to Databases (CS 340): CRUD App: Model of a marketplace for memorabilia. Tech used: HTML, CSS, JavaScript, Handlebars, SQL.<br />
